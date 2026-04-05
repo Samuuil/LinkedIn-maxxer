@@ -1,3 +1,6 @@
 [submodule "Linkedin-maxxer-backend"]
 	path = Linkedin-maxxer-backend
 	url = https://github.com/Samuuil/Linkedin-maxxer-backend.git
+[submodule "Linkedin-maxxer-frontend"]
+	path = Linkedin-maxxer-frontend
+	url = https://github.com/Samuuil/Linkedin-maxxer-frontend.git
